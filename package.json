@@ -1,0 +1,26 @@
+{
+  "name": "nonrel-task01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "bson": "^5.0.1",
+    "ip": "^2.0.0",
+    "memory-pager": "^1.5.0",
+    "mongodb": "^5.1.0",
+    "mongodb-connection-string-url": "^2.6.0",
+    "punycode": "^2.3.0",
+    "saslprep": "^1.0.3",
+    "smart-buffer": "^4.2.0",
+    "socks": "^2.7.1",
+    "sparse-bitfield": "^3.0.3",
+    "tr46": "^3.0.0",
+    "webidl-conversions": "^7.0.0",
+    "whatwg-url": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
